@@ -40,7 +40,7 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 
 ### Mediocre
 
-#### tutanota.com
+#### [tutanota.com](https://tutanota.com)
 
 - date last updated: 2/22/22
 - onion site: No
@@ -56,7 +56,7 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 
 ### Left Wanting
 
-#### Fastmail.com
+#### [Fastmail.com](https://fastmail.com)
 
 - date last updated: 2/22/22
 - onion site: No
@@ -67,7 +67,7 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - cost: ?
 - notes: Requires phone number
 
-#### Runbox.com
+#### [Runbox.com](https://Runbox.com)
 
 - date last updated: 2/22/22
 - onion site: No
@@ -80,7 +80,7 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - notes:
 - Could not complete the sign up. New registrations were not allowed.
 
-#### mailbox.org
+#### [Mailbox.org](https://mailbox.org)
 
 - date last updated: 2/22/22
 - onion site: No
@@ -94,7 +94,7 @@ Temporary email sites provide throw-away email addresses. You can use them for e
   - Can not send emails until you pay for the account.
   - No crypto options
 
-#### Kolabnow.com
+#### [Kolabnow.com](https://kolabnow.com)
 
 - date last updated: 2/22/22
 - onion site: N/A
@@ -106,7 +106,7 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - notes:
   - When trying to create a new account, the service hung up during the account creation.
 
-#### CTemplar.com
+#### [CTemplar.com](https://CTemplar.com)
 
 - date last updated: 2/22/22
 - onion site: http://ctemplarpizuduxk3fkwrieizstx33kg5chlvrh37nz73pv5smsvl6ad.onion
@@ -118,11 +118,11 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - notes:
   - Requires invite code from existing user
 
-#### mxroute.com
+#### [Mxroute.com](https://mxroute.com)
 
 - This is email hosting for domains. You need to have a domain name.
 
-#### Countermail.com
+#### [Countermail.com](https://countermail.com)
 
 - date last updated: 2/22/22
 - onion site: No
@@ -135,7 +135,7 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - notes:
 - Registration requires an invite code from an existing user
 
-#### StartMail.com
+#### [StartMail.com](https://startmail.com)
 
 - date last updated: 2/22/22
 - onion site: No
@@ -148,7 +148,7 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - notes:
   - Can not register for free trial without paying first.
 
-#### thexyz.com
+#### [thexyz.com](https://thexyz.com)
 
 - date last updated: 2/22/22
 - onion site: No
