@@ -6,13 +6,13 @@ This README tracks email services that are crypto and privacy friendly.
 
 Temporary email sites provide throw-away email addresses. You can use them for email service providers that require an alternative email address when signing up.
 
-- cryptogmail.com
+- [cryptogmail.com](https://cryptogmail.com)
 
 ## Email Services
 
 ### Favorites
 
-#### Cyberfear.com
+#### [Cyberfear.com](https://cyberfear.com)
 
 - date last updated: 2/22/22
 - onion site: http://cyberfe3gvh7cvq2nhuqtaghjxebhcnqafnfvalwvq6mxrinep7m7xqd.onion/
@@ -25,7 +25,7 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - notes:
   - This is what privacy-friendly, crypto-friendly email service should be. Wonderful UX.
 
-#### mailfence.com
+#### [Mailfence.com](https://mailfence.com)
 
 - date last updated: 2/22/22
 - onion site: No
