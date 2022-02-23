@@ -40,33 +40,6 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 
 ### Mediocre
 
-#### [tutanota.com](https://tutanota.com)
-
-- date last updated: 2/22/22
-- onion site: No
-- captcha if using tor: **Yes**
-- requires alt email: No
-- Free trial: Yes
-- cost: Free
-- accepts crypto: N/A
-- accepts BCH: N/A
-- notes:
-  - Could not complete registration with Tor browser. A VPN will be needed to maintain IP privacy.
-  - New accounts have to wait 48 hours for approval.
-
-### Left Wanting
-
-#### [Fastmail.com](https://fastmail.com)
-
-- date last updated: 2/22/22
-- onion site: No
-- captcha if using tor: No
-- requires alt email: Requires phone number
-- accepts crypto: ?
-- accepts BCH: ?
-- cost: ?
-- notes: Requires phone number
-
 #### [Runbox.com](https://Runbox.com)
 
 - date last updated: 2/22/22
@@ -80,47 +53,7 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - notes:
 - Could not complete the sign up. New registrations were not allowed.
 
-#### [Mailbox.org](https://mailbox.org)
-
-- date last updated: 2/22/22
-- onion site: No
-- captcha if using tor: No
-- requires alt email: No
-- free trial: See notes
-- cost: 1 Euro per month
-- accepts crypto: No
-- accepts BCH: No
-- notes:
-  - Can not send emails until you pay for the account.
-  - No crypto options
-
-#### [Kolabnow.com](https://kolabnow.com)
-
-- date last updated: 2/22/22
-- onion site: N/A
-- captcha if using tor: No
-- requires alt email: Yes
-- cost: \$6 per month
-- accepts crypto: No
-- accepts BCH: No
-- notes:
-  - When trying to create a new account, the service hung up during the account creation.
-
-#### [CTemplar.com](https://CTemplar.com)
-
-- date last updated: 2/22/22
-- onion site: http://ctemplarpizuduxk3fkwrieizstx33kg5chlvrh37nz73pv5smsvl6ad.onion
-- captcha if using tor: No
-- requires alt email: Yes
-- cost: ?
-- accepts crypto: ?
-- accepts BCH: ?
-- notes:
-  - Requires invite code from existing user
-
-#### [Mxroute.com](https://mxroute.com)
-
-- This is email hosting for domains. You need to have a domain name.
+### Left Wanting
 
 #### [Countermail.com](https://countermail.com)
 
@@ -134,6 +67,59 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - accepts BCH: N/A
 - notes:
 - Registration requires an invite code from an existing user
+
+#### [CTemplar.com](https://CTemplar.com)
+
+- date last updated: 2/22/22
+- onion site: http://ctemplarpizuduxk3fkwrieizstx33kg5chlvrh37nz73pv5smsvl6ad.onion
+- captcha if using tor: No
+- requires alt email: Yes
+- cost: ?
+- accepts crypto: ?
+- accepts BCH: ?
+- notes:
+  - Requires invite code from existing user
+
+#### [Fastmail.com](https://fastmail.com)
+
+- date last updated: 2/22/22
+- onion site: No
+- captcha if using tor: No
+- requires alt email: Requires phone number
+- accepts crypto: ?
+- accepts BCH: ?
+- cost: ?
+- notes: Requires phone number
+
+#### [Kolabnow.com](https://kolabnow.com)
+
+- date last updated: 2/22/22
+- onion site: N/A
+- captcha if using tor: No
+- requires alt email: Yes
+- cost: \$6 per month
+- accepts crypto: No
+- accepts BCH: No
+- notes:
+  - When trying to create a new account, the service hung up during the account creation.
+
+#### [Mailbox.org](https://mailbox.org)
+
+- date last updated: 2/22/22
+- onion site: No
+- captcha if using tor: No
+- requires alt email: No
+- free trial: See notes
+- cost: 1 Euro per month
+- accepts crypto: No
+- accepts BCH: No
+- notes:
+  - Can not send emails until you pay for the account.
+  - No crypto payment options
+
+#### [Mxroute.com](https://mxroute.com)
+
+- This is email hosting for domains. You need to have a domain name.
 
 #### [StartMail.com](https://startmail.com)
 
@@ -161,6 +147,20 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - notes:
   - Asks for phone number when signing up.
   - Registration failed because IP address did not match billing address
+
+#### [tutanota.com](https://tutanota.com)
+
+- date last updated: 2/22/22
+- onion site: No
+- captcha if using tor: **Yes**
+- requires alt email: No
+- Free trial: Yes
+- cost: Free
+- accepts crypto: N/A
+- accepts BCH: N/A
+- notes:
+  - Could not complete registration with Tor browser. A VPN will be needed to maintain IP privacy.
+  - New accounts have to wait 48 hours for approval.
 
 ## Template
 
