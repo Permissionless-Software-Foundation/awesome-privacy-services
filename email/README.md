@@ -33,8 +33,8 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - requires alt email: Yes
 - Free trial: Yes
 - cost: Free
-- accepts crypto: N/A
-- accepts BCH: N/A
+- accepts crypto: No
+- accepts BCH: No
 - notes:
   - Sign up was fast and easy. Other than the requirement for a previous email address, this is a nice service.
 
