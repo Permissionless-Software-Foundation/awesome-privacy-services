@@ -17,8 +17,8 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - date last updated: 2/22/22
 - onion site: http://cyberfe3gvh7cvq2nhuqtaghjxebhcnqafnfvalwvq6mxrinep7m7xqd.onion/
 - captcha if using tor: No
-- requires alt email: ?
-- Free trial: ?
+- requires alt email: No
+- Free trial: No
 - cost: \$2 per month
 - accepts crypto: Yes
 - accepts BCH: Yes
