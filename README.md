@@ -11,4 +11,5 @@ These reviews allow privacy-focused consumers to quickly locate services that ar
 ### Curated Lists
 
 - [Email](./email)
+- [Phone Numbers](./text-messages) for receiving text messages.
 - [Virtual Private Servers (VPS)](./servers)
