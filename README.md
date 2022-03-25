@@ -10,6 +10,12 @@ These reviews allow privacy-focused consumers to quickly locate services that ar
 
 ### Curated Lists
 
+- [Crypto](./crypto)
 - [Email](./email)
 - [Phone Numbers](./text-messages) for receiving text messages.
 - [Virtual Private Servers (VPS)](./servers)
+
+
+### Additional Resources
+These are privacy resources that need to be incorporated into this reposiory:
+- https://www.privacytools.io/#email

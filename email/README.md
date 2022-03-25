@@ -1,12 +1,19 @@
 # Awesome Email Services
 
-This README tracks email services that are crypto and privacy friendly.
+This README tracks email services that are crypto and privacy friendly. Email is the most fundamental source of identity on the internet. It's hard to do anything without one. This page has resources for anonymously obtaining an email address from a privacy respecting, crypto-friendly service.
 
 ## Temporary Email
 
 Temporary email sites provide throw-away email addresses. You can use them for email service providers that require an alternative email address when signing up.
 
 - [cryptogmail.com](https://cryptogmail.com)
+
+## Email Aliases
+
+Email aliases allow you to create a 'proxy' email address, that then forwards the email on to your 'real' email address. Once you have done the hard work of establishing an email service (below), you can use email aliases to multiply the effective number of emails you have to work with.
+
+#### [AnonAddy](https://anonaddy.com/)
+#### [SimpleLogin](https://simplelogin.io/)
 
 ## Email Services
 
@@ -40,18 +47,29 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 
 ### Mediocre
 
-#### [Runbox.com](https://Runbox.com)
+#### [Fastmail.com](https://fastmail.com)
 
 - date last updated: 2/22/22
 - onion site: No
 - captcha if using tor: No
+- requires alt email: Requires phone number
+- accepts crypto: No
+- accepts BCH: No
+- cost: $3/month
+- notes: Requires phone number. Has free 30 day trial. Can not pay in crypto, but makes a great burner account.
+
+#### [Runbox.com](https://Runbox.com)
+
+- date last updated: 2/22/22
+- onion site: No
+- captcha if using tor: See notes
 - requires alt email: Yes
 - free trial: Yes
 - cost: \$8 / yr
 - accepts crypto: ?
 - accepts BCH: ?
 - notes:
-- Could not complete the sign up. New registrations were not allowed.
+- Could not complete the sign up when using Tor browser. New registrations were not allowed. Using a VPN allowed creation of a new account.
 
 ### Left Wanting
 
@@ -79,17 +97,6 @@ Temporary email sites provide throw-away email addresses. You can use them for e
 - accepts BCH: ?
 - notes:
   - Requires invite code from existing user
-
-#### [Fastmail.com](https://fastmail.com)
-
-- date last updated: 2/22/22
-- onion site: No
-- captcha if using tor: No
-- requires alt email: Requires phone number
-- accepts crypto: ?
-- accepts BCH: ?
-- cost: ?
-- notes: Requires phone number
 
 #### [Kolabnow.com](https://kolabnow.com)
 
